@@ -1,4 +1,3 @@
-# Electricity-Price-prediction
 
 # Day-Ahead Price Forecasting for NO1 Zone in Norway
 
