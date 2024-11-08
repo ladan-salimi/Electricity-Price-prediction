@@ -182,7 +182,7 @@ for batch in dataset_train.take(1):
 print("Input shape:", inputs.numpy().shape)
 print("Target shape:", targets.numpy().shape)
 inputs = keras.layers.Input(shape=(inputs.shape[1], inputs.shape[2]))
-lstm_out = keras.layers.LSTM(32)(inputs)
+lstm_out = keras.layers.LSTM(256)(inputs)
 outputs = keras.layers.Dense(1)(lstm_out)
 
 model = keras.Model(inputs=inputs, outputs=outputs)
