@@ -265,9 +265,9 @@ mse = mean_squared_error(y_test[-len(y_pred):], y_pred)
 mae = mean_absolute_error(y_test[-len(y_pred):], y_pred)
 r2 = r2_score(y_test[-len(y_pred):], y_pred)
 
-print(f'MSE: {mse}')
-print(f'MAE: {mae}')
-print(f'R-squared: {r2}')
+print(f'MSE is: {mse}')
+print(f'MAE is: {mae}')
+print(f'R-squared is: {r2}')
 
 ########################################################################################
 #######################           plot Prediction vs actual    ################################
