@@ -27,7 +27,8 @@ df.drop(columns='MTU_cleaned', inplace=True)
 
 df = df.set_index('MTU')
 df.info()
-
+#####################################################################################
+###########################Preprocessing step##########################################
 # Find NaNs and duplicates in df
 print('There are {} missing values or NaNs in df.'
       .format(df.isnull().values.sum()))
