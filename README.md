@@ -1,7 +1,7 @@
 
 # Day-Ahead Price Forecasting for NO1 Zone in Norway
 
-This project implements a **Day-ahead price forecasting model** for the NO1 zone in Norway, focusing on predicting electricity prices using Recurrent Neural Networks (RNN) with Long Short-Term Memory (LSTM) architecture.
+This project implements a **Day-ahead price forecasting model** for the NO1 zone in Norway, focusing on predicting electricity prices using Long Short-Term Memory (LSTM) architecture.
 
 ## Project Overview
 
