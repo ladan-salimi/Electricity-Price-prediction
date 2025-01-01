@@ -9,7 +9,6 @@ The primary objective of this project is to forecast electricity prices one day 
 
 ### Input Features
 
-The model utilizes the following features as input:
 - **Actual Generation** for zones NO1, NO2, NO3, NO5, and SE3
   - Based on **Cross Border Physical Flow** data from ENTSO-E.
 - **Actual Load** for NO1.
