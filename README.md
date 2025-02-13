@@ -19,7 +19,7 @@ The primary objective of this project is to forecast electricity prices one day 
 
 ### Challenges
 
-One of the significant challenges encountered during this project was data handling, especially due to the geopolitical situation, such as the **war between Ukraine and Russia**. The absence of data on gas and oil prices further complicated accurate forecasting.
+One significant challenge this project encountered was data handling, especially due to the geopolitical situation, such as the **war between Ukraine and Russia**. The absence of data on gas and oil prices further complicated accurate forecasting.
 
 ## Model Description
 
